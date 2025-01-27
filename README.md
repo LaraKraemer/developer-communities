@@ -1,19 +1,21 @@
-# dev-communities-list
-This repository will eventually list developer communities across Germany, Europe, and the world. As a junior developer, I am experience first hand the massive value of a community. 
+# Developer Communities List
+This repository will eventually list a wide range of non-profit developer communities across Germany, Europe, and the world. As a junior developer, I experience first hand the massive value of being part a developer community. 
 
 ### What is a community? 
 
 A community is a non-profit group of people who share common interests, goals, or values, and organize events to connect, learn, and grow together.
 
-Do you want to contribute, add an a active community? Great! You can follow the CONTRIBUTING.md and simply open a Pull Request (PR) to update the developers community list. If everybody contributes to this repo, it can help community organizer to grow their community, and it can help developers learn from each other, grow together as well as support each other. 
+### Do you want to contribute, add an a active community? 
 
-For conferences I recommend starring Aurelie Vache repo about developers conferences across the world. 
+Great! You can follow the [CONTRIBUTING.md]() and simply open a Pull Request (PR) to update the developer community list. Your contributions will help developers connect, learn, and grow with each other.
+
+For conferences I recommend starring [Aurelie Vache repo](https://github.com/scraly/developers-conferences-agenda) about developers conferences across the world. 
 
 Driven by the community for the community. 
 
 <p>&nbsp;</p>
 
-## 👀 Table of Contents
+## Overview
 1. [Europe](#setting-up-local-development-environment)
 	* [Germany](#germany)
     	+ [Python](#python)
