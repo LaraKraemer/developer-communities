@@ -10,7 +10,7 @@ Thank you for considering contributing to the **Developer Communities List**! Th
   - Find the relevant technology category (e.g., Python, JavaScript, Kotlin, etc.).
   - Add your community under the relevant category using the format below.
 - If the country does not exist:
-  - Create a new section for the country using the [template]() provided.
+  - Create a new section for the country using the [template](https://github.com/LaraKraemer/developer-communities/blob/main/template.md) provided.
 
 ### 2. Community Entry Format
 Use the following format to add a community:
