@@ -23,8 +23,12 @@ Driven by the community for the community.
 		+ [Java](#java)
 		+ [Flutter](#flutter)
 		+ [JavaScript](#javascript)
+		+ [Kubernetes](#kubernetes)
+		+ [Golang](#golang)
 		+ [Rust](#rust)
+		+ [Data](#data)
 		+ [AI](#ai)
+		+ [Databases](#databases)
 		+ [General](#general)
 		+ [Mentorship](#mentorship)
 	* [⭐️ Add a PR with communities in your country](#add-a-pr-with-communities-in-your-country)
@@ -53,6 +57,7 @@ Driven by the community for the community.
 #### Kotlin
 * [Kotlin User Group Berlin](https://www.meetup.com/de-DE/kotlin-berlin/)
 * [Kotlin User Group Munich](https://www.meetup.com/de-DE/kotlin-user-group-munich/)
+* [Virtual Kotlin User Group](https://www.meetup.com/virtual-kotlin-user-group/)
 
 #### Java
 * [Java User Group Munich](https://www.meetup.com/java-user-group-munchen-jugm/)
@@ -60,17 +65,39 @@ Driven by the community for the community.
 * [Java User Group Karlsruhe](https://www.meetup.com/java-user-group-karlsruhe/)
 
 #### Android 
+* [GDG Berlin Android](https://www.meetup.com/de-DE/berlindroid/)
+* [(GDG Munich Android)](https://www.meetup.com/gdg-munich-android/)
 #### iOS
 #### Flutter
+* [Flutter Munich](https://www.meetup.com/flutter-munich/)
+* [Flutter Hamburg](https://www.meetup.com/flutter-meetup-hamburg/)
 #### JavaScript
+#### Kubernetes 
+* [All in Kubernetes Berlin](https://www.meetup.com/all-in-kubernetes/)
+#### Golang 
+* [GDG Berlin Golang](https://www.meetup.com/golang-users-berlin/?eventOrigin=event_home_page)
 #### Rust
+* [Rust Meetup Hamburg](https://www.meetup.com/Rust-Meetup-Hamburg/)
+* [Rust Berlin](https://www.meetup.com/rust-berlin/)
+* [Rust Cologne](https://www.meetup.com/de-DE/rustcologne/)
+* [Rust Munich](https://www.meetup.com/rust-munich/)
 #### Data
+* [Data Berlin](https://www.meetup.com/data-berlin/)
+* [ODSC Berlin Data Science](https://www.meetup.com/berlin-data-science-odsc/?eventOrigin=event_home_page)
 #### AI
+* [meetup ai [Berlin]](https://www.meetup.com/de-DE/meetupai-berlin/)
+* [Berlin AI/LLMs/ChatGPT Developers Group](https://www.meetup.com/berlin-ai-meetup/)
+* [AI Enthusiasts Berlin](https://www.meetup.com/ai-enthusiasts-berlin/)
+#### Databases
+* [PostgreSQL Meetup Group Berlin](https://www.meetup.com/postgresql-meetup-berlin/?eventOrigin=event_home_page)
 #### General
-* [Google for Developer](https://gdg.community.dev/gdg-berlin/)
+* [Google for Developer Berlin](https://gdg.community.dev/gdg-berlin/)
+* [Google for Developer Hannover](https://www.meetup.com/gdg-hannover/)
+* [Google for Developer Ahlen](https://www.meetup.com/de-DE/developer-group-ahlen/)
+* [Tech Internals Community Berlin](https://www.meetup.com/tech-internals-community/?eventOrigin=event_home_page)
 #### Mentorship
-* [Codebar](https://codebar.io/events)
-* [Django Girls](https://djangogirls.org/en/)
+* [Codebar Berlin](https://codebar.io/events)
+* [Django Girls Berlin](https://djangogirls.org/en/)
 
 
 
