@@ -7,9 +7,9 @@ A community is a non-profit group of people who share common interests, goals, o
 
 ### Do you want to contribute, add an a active community? 
 
-Great! You can follow the [CONTRIBUTING.md]() and simply open a Pull Request (PR) to update the developer community list. Your contributions will help developers connect, learn, and grow with each other.
+Great! You can follow the [CONTRIBUTING.md](https://github.com/LaraKraemer/developer-communities/blob/main/CONTRIBUTING.md) and simply open a Pull Request (PR) to update the developer community list. Your contributions will help developers connect, learn, and grow with each other.
 
-For conferences I recommend starring [Aurelie Vache repo](https://github.com/scraly/developers-conferences-agenda) about developers conferences across the world. 
+For developer conferences across the world,  I recommend saving [Aurelie Vache repo](https://github.com/scraly/developers-conferences-agenda).
 
 Driven by the community for the community. 
 
