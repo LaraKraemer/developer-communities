@@ -1,17 +1,21 @@
 # Developer Communities List
-This repository will eventually list a wide range of non-profit developer communities across Germany, Europe, and the world. As a junior developer, I experience first hand the massive value of being part a developer community. 
+This repository will eventually list a wide range of non-profit developer communities across Germany, Europe, and the world. As a junior developer, 
+I experience first hand the massive value of being part a developer community. 
+
+The list allows for quick exploration, helping you discover new communities you might not have considered. 
+It also encourages exploration across different stacks and offers a more diverse view of developer communities.
+
 
 ### What is a community? 
 
 A community is a non-profit group of people who share common interests, goals, or values, and organize events to connect, learn, and grow together.
 
-### Do you want to contribute, add an a active community? 
+### Do you want to contribute? Add a community!
 
-Great! You can follow the [CONTRIBUTING.md](https://github.com/LaraKraemer/developer-communities/blob/main/CONTRIBUTING.md) and simply open a Pull Request (PR) to update the developer community list. Your contributions will help developers connect, learn, and grow with each other.
+Great! You can follow the [CONTRIBUTING.md](https://github.com/LaraKraemer/developer-communities/blob/main/CONTRIBUTING.md) and 
+simply open a Pull Request (PR) to update the developer community list. Your contributions will help developers connect, learn, and grow with each other.
 
 For developer conferences across the world,  I recommend saving [Aurelie Vache repo](https://github.com/scraly/developers-conferences-agenda).
-
-Driven by the community for the community. 
 
 <p>&nbsp;</p>
 
@@ -31,12 +35,13 @@ Driven by the community for the community.
 		+ [Databases](#databases)
 		+ [General](#general)
 		+ [Mentorship](#mentorship)
-	* [⭐️ Add a PR with communities in your country](#add-a-pr-with-communities-in-your-country)
+	* [⭐️ Add a PR with communities in your country](https://github.com/LaraKraemer/developer-communities/blob/main/CONTRIBUTING.md)
 	
 
 <p>&nbsp;</p>
 
 # Europe
+
 
 ## Germany
 
@@ -65,13 +70,14 @@ Driven by the community for the community.
 * [Java User Group Karlsruhe](https://www.meetup.com/java-user-group-karlsruhe/)
 
 #### Android 
-* [GDG Berlin Android](https://www.meetup.com/de-DE/berlindroid/)
-* [(GDG Munich Android)](https://www.meetup.com/gdg-munich-android/)
+* [GDG Berlin Android Berlin](https://www.meetup.com/de-DE/berlindroid/)
+* [(GDG Munich Android Munich)](https://www.meetup.com/gdg-munich-android/)
 #### iOS
 #### Flutter
 * [Flutter Munich](https://www.meetup.com/flutter-munich/)
 * [Flutter Hamburg](https://www.meetup.com/flutter-meetup-hamburg/)
 #### JavaScript
+* [MunichJS – JavaScript User Group Munich](https://www.meetup.com/munichjs-user-group/)
 #### Kubernetes 
 * [All in Kubernetes Berlin](https://www.meetup.com/all-in-kubernetes/)
 #### Golang 
@@ -85,8 +91,8 @@ Driven by the community for the community.
 * [Data Berlin](https://www.meetup.com/data-berlin/)
 * [ODSC Berlin Data Science](https://www.meetup.com/berlin-data-science-odsc/?eventOrigin=event_home_page)
 #### AI
-* [meetup ai [Berlin]](https://www.meetup.com/de-DE/meetupai-berlin/)
-* [Berlin AI/LLMs/ChatGPT Developers Group](https://www.meetup.com/berlin-ai-meetup/)
+* [Meetup ai [Berlin]](https://www.meetup.com/de-DE/meetupai-berlin/)
+* [AI/LLMs/ChatGPT Developers Group Berlin](https://www.meetup.com/berlin-ai-meetup/)
 * [AI Enthusiasts Berlin](https://www.meetup.com/ai-enthusiasts-berlin/)
 #### Databases
 * [PostgreSQL Meetup Group Berlin](https://www.meetup.com/postgresql-meetup-berlin/?eventOrigin=event_home_page)
@@ -98,9 +104,3 @@ Driven by the community for the community.
 #### Mentorship
 * [Codebar Berlin](https://codebar.io/events)
 * [Django Girls Berlin](https://djangogirls.org/en/)
-
-
-
-
-
-
